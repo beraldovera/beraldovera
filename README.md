@@ -4,7 +4,7 @@
 Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da programação num mergulho de cabeça e felizmente não me afoguei! Estou pertinho de uma graduação em _Ciência da Computação_ e até agora, vim e voltei entre os mares da programação, me aventurando em ondas igual um surfista. 🏄🏻‍♀️ 
 
 <code><p align="center">
-  <img src="https://tenor.com/view/bugcat-loading-error-angry-throw-keyboard-gif-16423587"/>
+  <img src="https://tenor.com/view/bugcat-loading-error-angry-throw-keyboard-gif-16423587" width = 350/>
 </p></code>
 
 <br/>
