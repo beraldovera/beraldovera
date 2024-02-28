@@ -28,6 +28,7 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 <p align = "left"> 🕹️ Sou apaixonada por jogos e sonho alto em um dia me tornar desenvolvedora de um. </p>
 <p align = "left"> ☕ O café é quase uma água pra mim! </p>
 <p align = "left"> 💼 Aprendo de tudo um pouco, porque o saber exagerado nunca é demais, mas sou bem focada em web design. O FrontEnd chama pelo meu nome. 📣 </p>
+</p>
 
 
 
