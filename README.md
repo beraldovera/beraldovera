@@ -8,7 +8,7 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 </p><
 
 <br/>
-<br>
+
 
 ## 🖥️ Tecnologias e Ferramentas
 <code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title = "CCS5" /></code>
