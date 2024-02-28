@@ -23,10 +23,11 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 
 <br/>
 
-📚 Estou estudando SASS e conhecendo algumas coisinhas de Python!
-🕹️ Sou apaixonada por jogos e sonho alto em um dia me tornar desenvolvedora de um.
-☕ O café é quase uma água pra mim! 
-💼 Aprendo de tudo um pouco, porque o saber exagerado nunca é demais, mas sou bem focada em web design. O FrontEnd chama pelo meu nome. 📣
+<p display = "inline-block">
+<p align = "left"> 📚 Estou estudando SASS e conhecendo algumas coisinhas de Python! </p>
+<p align = "left"> 🕹️ Sou apaixonada por jogos e sonho alto em um dia me tornar desenvolvedora de um. </p>
+<p align = "left"> ☕ O café é quase uma água pra mim! </p>
+<p align = "left"> 💼 Aprendo de tudo um pouco, porque o saber exagerado nunca é demais, mas sou bem focada em web design. O FrontEnd chama pelo meu nome. 📣 </p>
 
 
 
