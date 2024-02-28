@@ -30,6 +30,10 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 <p align = "left"> 💼 Aprendo de tudo um pouco, porque o saber exagerado nunca é demais, mas sou bem focada em web design. O FrontEnd chama pelo meu nome. 📣 </p>
 </p>
 
+## Entre em contato comigo!
+
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 
 
