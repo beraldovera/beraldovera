@@ -4,7 +4,7 @@
 Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da programação num mergulho de cabeça e felizmente não me afoguei! Estou pertinho de uma graduação em _Ciência da Computação_ e até agora, vim e voltei entre os mares da programação, me aventurando em ondas igual um surfista. 🏄🏻‍♀️ 
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/3163039/screenshots/14754552/media/e97add2bcb049c9c41334b00e366da3a.gif" width = 150/>
+  <img src="https://i.pinimg.com/originals/ea/86/2c/ea862c2c1781bb4233ef774f8dfe7f19.gif" width = 150/>
 </p><
 
 <br/>
