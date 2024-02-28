@@ -3,9 +3,9 @@
 #### Meu nome é **Vera Beatriz**, mas você pode me chamar de **Bia**! 
 Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da programação num mergulho de cabeça e felizmente não me afoguei! Estou pertinho de uma graduação em _Ciência da Computação_ e até agora, vim e voltei entre os mares da programação, me aventurando em ondas igual um surfista. 🏄🏻‍♀️ 
 
-<code><p align="center">
-  <img src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif" width = 350/>
-</p></code>
+<p align="center">
+  <img src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif" width = 350/>
+</p><
 
 <br/>
 <br>
