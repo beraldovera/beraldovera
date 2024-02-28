@@ -42,7 +42,7 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 
 <div>
 <a href="https://github.com/beraldovera">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beraldovera&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beraldovera&layout=compact&langs_count=7&theme=default"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=beraldoverai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
