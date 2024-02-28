@@ -20,11 +20,13 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 <code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title = "MYSQL" /></code>
 <code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title = "Canva" /></code>
 <code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" /></code>
-<!--
-<code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" /></code>
-<code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" /></code>
-<code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" /></code>
--->
+
+<br/>
+
+📚 Estou estudando SASS e conhecendo algumas coisinhas de Python!
+🕹️ Sou apaixonada por jogos e sonho alto em um dia me tornar desenvolvedora de um.
+☕ O café é quase uma água pra mim! 
+💼 Aprendo de tudo um pouco, porque o saber exagerado nunca é demais, mas sou bem focada em web design. O FrontEnd chama pelo meu nome. 📣
 
 
 
