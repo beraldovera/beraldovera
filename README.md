@@ -1,6 +1,6 @@
-# Oh, hello! Welcome to my GitHub profile. ✌🏻
+# Oh, hey! Bem vinde ao meu perfil do Github. ✌🏻
 ```
-My name is Vera Beatriz, but you can call me Bia.
+Meu nome é Vera Beatriz, mas você pode me chamar de Bia.
 ```
 
 
