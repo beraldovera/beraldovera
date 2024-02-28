@@ -5,7 +5,7 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 
 <p align="center">
   <img src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif" width = 150/>
-</p><
+</p>
 
 <br/>
 
