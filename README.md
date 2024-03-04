@@ -20,6 +20,7 @@ Tenho 21 anos, sou de São José dos Campos - SP e entrei nesse mundo da program
 <code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title = "MYSQL" /></code>
 <code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title = "Canva" /></code>
 <code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" /></code>
+<code><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" title = "Photoshop"/> </code>
 
 <br/>
 
